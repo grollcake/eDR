@@ -1,5 +1,5 @@
-ï»¿date: 2016/08/09
-version: 5.11
-filename: eDR_5.11.xlam
-url: https://github.com/grollcake/eDR/raw/master/eDR_5.11.xlam
-changes: ë¦¬ë³¸ë©”ë‰´ ì „ì²´í­ ì¶•ì†Œ
+date: 2018/02/07
+version: 5.2
+filename: eDR_5.2.xlam
+url: https://github.com/grollcake/eDR/raw/master/eDR_5.2.xlam
+changes: ¼¿ ¼­½ÄÀÌ ³Ê¹« ¸¹½À´Ï´Ù ¿À·ù¸¦ ÇØ°áÇÏ´Â ±â´ÉÀ» Ãß°¡Çß½À´Ï´Ù
