@@ -1,5 +1,5 @@
-date: 2018/02/07
-version: 5.2
-filename: eDR_5.2_x32.xlam
-url: https://github.com/grollcake/eDR/raw/master/eDR_5.2_x32.xlam
-changes: ¼¿ ¼­½ÄÀÌ ³Ê¹« ¸¹½À´Ï´Ù ¿À·ù¸¦ ÇØ°áÇÏ´Â ±â´ÉÀ» Ãß°¡Çß½À´Ï´Ù
+date: 2020/02/19
+version: 6.0
+filename: HK-Addin_6.0_x64.xlam
+url: https://github.com/grollcake/eDR/raw/master/HK-Addin_6.0_x64.xlam
+changes: ì…€ ì„œì‹ì´ ë„ˆë¬´ ë§ìŠµë‹ˆë‹¤ ì˜¤ë¥˜ë¥¼ í•´ê²°í•˜ëŠ” ê¸°ëŠ¥ì„ ì¶”ê°€í–ˆìŠµë‹ˆë‹¤
