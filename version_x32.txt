@@ -1,0 +1,5 @@
+date: 2020/02/19
+version: 6.0
+filename: HK-Addin_6.0_x32.xlam
+url: https://github.com/grollcake/eDR/raw/master/HK-Addin_6.0_x32.xlam
+changes: 애드온 이름을 HK-Addin으로 변경했습니다.
